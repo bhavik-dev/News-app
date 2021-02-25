@@ -1,4 +1,4 @@
-
+# by Bhavik Limbasiya
 
 A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories ranges from tech to entertainment. You can choose news category displayed on category page. App is providing a smooth and amazing design with gestures effect and smooth experience with android and iOS both platform.
 
@@ -7,7 +7,7 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
 
 Dark theme               |  Light Theme               | Dark theme               |  Light Theme
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
-
+![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_1.jpg?raw=true)
 
 
 ## Pull Requests
