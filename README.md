@@ -7,7 +7,10 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
 
 Dark theme               |  Light Theme               | Dark theme               |  Light Theme
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
-![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_1.jpg?raw=true)
+![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_1.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/light_1.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_2.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/light_2.jpg?raw=true)
+![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_category.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/light_category.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_3.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/light_3.jpg?raw=true)
+![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_4.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/light_4.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_5.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/light_5.jpg?raw=true)
+![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/dark_6.jpg?raw=true)|![](https://github.com/bhavik-dev/News-app/blob/main/screenshots/light_6.jpg?raw=true)
 
 
 ## Pull Requests
